@@ -118,7 +118,7 @@
 </nav>
 
 <section class="hero">
-  <p class="hero-ornament">✦ &nbsp; Projekt Shkollor &nbsp; ✦</p>
+  <p class="hero-ornament">✦ &nbsp; Projekt &nbsp; ✦</p>
   <h1>Shqipëria<br/><span>e Mesme</span></h1>
   <p class="hero-sub">Zemra e Shqipërisë — rajoni ku takohen historia, kultura dhe jeta moderne e vendit.</p>
   <div class="hero-divider"></div>
