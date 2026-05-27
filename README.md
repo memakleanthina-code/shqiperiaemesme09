@@ -1,5 +1,3 @@
-[prjktTIK2.html](https://github.com/user-attachments/files/28324511/prjktTIK2.html)
-<!DOCTYPE html>
 <html lang="sq">
 <head>
   <meta charset="UTF-8" />
